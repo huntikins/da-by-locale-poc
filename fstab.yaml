@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/1/folders/129N1qidWJVBF5j-xkoaKZFp4PuEuAgZ7
-  /us: https://drive.google.com/drive/u/0/folders/1_CL3vgeZ_fnBNi5efzMItd-pEqBQpdRM
-  /au: https://drive.google.com/drive/u/0/folders/1m5Ln15nGNkdnu0m6ee8B-7deCwVBodpm
-  /ca: https://drive.google.com/drive/u/0/folders/1-VqQKjT_JRRLLMapWoWIfI8xIkk2sq_U
+  /: https://drive.google.com/drive/folders/129N1qidWJVBF5j-xkoaKZFp4PuEuAgZ7
+  /us: https://drive.google.com/drive/folders/1_CL3vgeZ_fnBNi5efzMItd-pEqBQpdRM
+  /au: https://drive.google.com/drive/folders/1m5Ln15nGNkdnu0m6ee8B-7deCwVBodpm
+  /ca: https://drive.google.com/drive/folders/1-VqQKjT_JRRLLMapWoWIfI8xIkk2sq_U
